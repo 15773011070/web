@@ -11,9 +11,6 @@
       </div>
     </div>
     <div class="rightDiv">
-      <div class="headTitle">
-        <!-- <uwo-table-title :headData = 'headData'></uwo-table-title> -->
-      </div>
       <div class="contentDiv" :style="contentDivStyleObj">
          <uwo-management></uwo-management>
       </div>
